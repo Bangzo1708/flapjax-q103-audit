@@ -125,7 +125,9 @@
   "count": 1,
   "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
   "funderTx": "0xd37ebe8703b812f599481ef5cbc0c31513d72f99cb5dd0233e2590315c9d5d01",
-  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0xd37ebe8703b812f599481ef5cbc0c31513d72f99cb5dd0233e2"
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0xd37ebe8703b812f599481ef5cbc0c31513d72f99cb5dd0233e2",
+  "firstBnbBlock": 126835347,
+  "bnb": 0.0005
  },
  {
   "recipient": "0x2277cb5b0c78c92324f4cf230d74a4bda7eb7987",
@@ -245,7 +247,8 @@
   "count": 1,
   "funder": null,
   "funderTx": null,
-  "note": "internal-unknown first BNB block 110713436"
+  "note": "internal-unknown first BNB block 110713436",
+  "firstBnbBlock": 110713436
  },
  {
   "recipient": "0x3524b19f3728e9106dc44941c4d2fad7cd90bd01",
@@ -293,7 +296,9 @@
   "count": 1,
   "funder": "0xbd612a3f30dca67bf60a39fd0d35e39b7ab80774",
   "funderTx": "0x9bfbbfaea4aad86c7a94b7b6957bcaf6382279315899c34ec4985c331f2adc67",
-  "note": "0xbd612a3f30dca67bf60a39fd0d35e39b7ab80774` \u2014 `0x9bfbbfaea4aad86c7a94b7b6957bcaf6382279315899c34ec49"
+  "note": "0xbd612a3f30dca67bf60a39fd0d35e39b7ab80774` \u2014 `0x9bfbbfaea4aad86c7a94b7b6957bcaf6382279315899c34ec49",
+  "firstBnbBlock": 129755151,
+  "bnb": 0.00049
  },
  {
   "recipient": "0x3ccb7381ad4ea4eaab88c370818505771f998c80",
@@ -381,7 +386,9 @@
   "count": 1,
   "funder": "0x1fbe2acee135d991592f167ac371f3dd893a508b",
   "funderTx": "0xe61d073319658e839b3eba7dbb80942135882b7aae38db3f2152b818970cf097",
-  "note": "0x1fbe2acee135d991592f167ac371f3dd893a508b` \u2014 `0xe61d073319658e839b3eba7dbb80942135882b7aae38db3f215"
+  "note": "0x1fbe2acee135d991592f167ac371f3dd893a508b` \u2014 `0xe61d073319658e839b3eba7dbb80942135882b7aae38db3f215",
+  "firstBnbBlock": 75015753,
+  "bnb": 0.00108832
  },
  {
   "recipient": "0x4a4b89974b5cda4cbd9cd9bc84b5d2dbfd7018e6",
@@ -405,7 +412,8 @@
   "count": 1,
   "funder": null,
   "funderTx": null,
-  "note": "internal-unknown first BNB block 123178503"
+  "note": "internal-unknown first BNB block 123178503",
+  "firstBnbBlock": 123178503
  },
  {
   "recipient": "0x5033036702cceee23b79022e938a41e0452f908a",
@@ -541,7 +549,9 @@
   "count": 1,
   "funder": "0x56c262027e0de4aea31d2489529cb25d23e58a8b",
   "funderTx": "0x7dec34bff97a51f4cc432aedb08c6229d9953ffcee832b8f3bd20b67677dfb87",
-  "note": "0x56c262027e0de4aea31d2489529cb25d23e58a8b` \u2014 `0x7dec34bff97a51f4cc432aedb08c6229d9953ffcee832b8f3bd"
+  "note": "0x56c262027e0de4aea31d2489529cb25d23e58a8b` \u2014 `0x7dec34bff97a51f4cc432aedb08c6229d9953ffcee832b8f3bd",
+  "firstBnbBlock": 131033707,
+  "bnb": 0.000160693692144447
  },
  {
   "recipient": "0x6668c4c77b6fd374d9e9fc10cabd636023727426",
@@ -565,7 +575,9 @@
   "count": 1,
   "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
   "funderTx": "0xb6d34c24425cc47b1916b023798264b4bfd8f4e646bd09c6408e418effd591ef",
-  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0xb6d34c24425cc47b1916b023798264b4bfd8f4e646bd09c6408"
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0xb6d34c24425cc47b1916b023798264b4bfd8f4e646bd09c6408",
+  "firstBnbBlock": 128436747,
+  "bnb": 0.0005
  },
  {
   "recipient": "0x6d08014ea1ce23003851eb91d8841b66629fdb1d",
@@ -589,7 +601,9 @@
   "count": 1,
   "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
   "funderTx": "0x65e58d7da0cfd58356a22da9786c98e1f804e57ec3c560d5d95fe3dc6a16412e",
-  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x65e58d7da0cfd58356a22da9786c98e1f804e57ec3c560d5d95"
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x65e58d7da0cfd58356a22da9786c98e1f804e57ec3c560d5d95",
+  "firstBnbBlock": 126835365,
+  "bnb": 0.0005
  },
  {
   "recipient": "0x702c71dcf35aebf2b4f6256a7a5e3e4e222a9e4a",
@@ -653,7 +667,9 @@
   "count": 1,
   "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
   "funderTx": "0x304ec74b18ebd7bcb8ad433b0d69f9d91c76589eefbcd7915ae69fa94e1111b3",
-  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x304ec74b18ebd7bcb8ad433b0d69f9d91c76589eefbcd7915ae"
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x304ec74b18ebd7bcb8ad433b0d69f9d91c76589eefbcd7915ae",
+  "firstBnbBlock": 126835373,
+  "bnb": 0.0005
  },
  {
   "recipient": "0x778edd931786a717fd3e0ed5978a06718c06cbbe",
@@ -701,7 +717,9 @@
   "count": 1,
   "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
   "funderTx": "0x3928442600781a153324727589cded6a64f2218de289ebfde2279fcc45d5c881",
-  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x3928442600781a153324727589cded6a64f2218de289ebfde22"
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x3928442600781a153324727589cded6a64f2218de289ebfde22",
+  "firstBnbBlock": 126835382,
+  "bnb": 0.0005
  },
  {
   "recipient": "0x8043ed9e7b0b46322f2932de92fb5ec0a5a031fe",
@@ -709,7 +727,9 @@
   "count": 1,
   "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
   "funderTx": "0x1c593e76c1601de689e80cf2280a4b55fefd942606b9d7561bfd8650fff68c66",
-  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x1c593e76c1601de689e80cf2280a4b55fefd942606b9d7561bf"
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x1c593e76c1601de689e80cf2280a4b55fefd942606b9d7561bf",
+  "firstBnbBlock": 126835391,
+  "bnb": 0.0005
  },
  {
   "recipient": "0x812eca4de0f1619b7dd01278f949b42b0e738485",
@@ -749,7 +769,8 @@
   "count": 1,
   "funder": null,
   "funderTx": null,
-  "note": "internal-unknown first BNB block 8383429"
+  "note": "internal-unknown first BNB block 8383429",
+  "firstBnbBlock": 8383429
  },
  {
   "recipient": "0x8785fa9111aa458117f766831fae5bdcaa6ae427",
@@ -989,7 +1010,9 @@
   "count": 1,
   "funder": "0xb01caea8c6c47bbf4f4b4c5080ca642043359c2e",
   "funderTx": "0x557ca72e76e4618f2e88e65491d174e2037c6f7e7f2d608e684d08934827b9b8",
-  "note": "0xb01caea8c6c47bbf4f4b4c5080ca642043359c2e` \u2014 `0x557ca72e76e4618f2e88e65491d174e2037c6f7e7f2d608e684"
+  "note": "0xb01caea8c6c47bbf4f4b4c5080ca642043359c2e` \u2014 `0x557ca72e76e4618f2e88e65491d174e2037c6f7e7f2d608e684",
+  "firstBnbBlock": 129670703,
+  "bnb": 2.966316e-05
  },
  {
   "recipient": "0xab7db30d433a39f7b930d2eb001ec3a1e8f89d44",
@@ -1013,7 +1036,9 @@
   "count": 1,
   "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
   "funderTx": "0x1c34477913e3f76b020b4c13819f73af3f1ffcc62c9a8f191f90dc73d97efed6",
-  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x1c34477913e3f76b020b4c13819f73af3f1ffcc62c9a8f191f9"
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x1c34477913e3f76b020b4c13819f73af3f1ffcc62c9a8f191f9",
+  "firstBnbBlock": 126835400,
+  "bnb": 0.0005
  },
  {
   "recipient": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
@@ -1141,7 +1166,9 @@
   "count": 1,
   "funder": "0xc76c41cd1ab2c6a730865cd58cfedfada6e631ab",
   "funderTx": "0xa96dd77a0432f87e2fb7632589a739728e783a2ed9f14d22692561d74c01b2bc",
-  "note": "0xc76c41cd1ab2c6a730865cd58cfedfada6e631ab` \u2014 `0xa96dd77a0432f87e2fb7632589a739728e783a2ed9f14d22692"
+  "note": "0xc76c41cd1ab2c6a730865cd58cfedfada6e631ab` \u2014 `0xa96dd77a0432f87e2fb7632589a739728e783a2ed9f14d22692",
+  "firstBnbBlock": 125300489,
+  "bnb": 0.00250724
  },
  {
   "recipient": "0xc1123bb365c3e8c7101bef362bd45d8bc0f5254a",
@@ -1157,7 +1184,9 @@
   "count": 1,
   "funder": "0x4d18632a4e396c2db765670331947398bccf89a1",
   "funderTx": "0x16b9ff162d92e744fdecc76c60fd2126f07b938eecca40305049735b9408e4aa",
-  "note": "0x4d18632a4e396c2db765670331947398bccf89a1` \u2014 `0x16b9ff162d92e744fdecc76c60fd2126f07b938eecca4030504"
+  "note": "0x4d18632a4e396c2db765670331947398bccf89a1` \u2014 `0x16b9ff162d92e744fdecc76c60fd2126f07b938eecca4030504",
+  "firstBnbBlock": 129899805,
+  "bnb": 0.001
  },
  {
   "recipient": "0xc5c431d0590ba65a034c43d6b328f79dd93c3c3b",
@@ -1165,7 +1194,9 @@
   "count": 1,
   "funder": "0x161ba15a5f335c9f06bb5bbb0a9ce14076fbb645",
   "funderTx": "0xd7eaf66b88e639def3501552da7eba79d1080df4003f5e90d8dfa7e11f7289e5",
-  "note": "0x161ba15a5f335c9f06bb5bbb0a9ce14076fbb645` \u2014 `0xd7eaf66b88e639def3501552da7eba79d1080df4003f5e90d8d"
+  "note": "0x161ba15a5f335c9f06bb5bbb0a9ce14076fbb645` \u2014 `0xd7eaf66b88e639def3501552da7eba79d1080df4003f5e90d8d",
+  "firstBnbBlock": 129641394,
+  "bnb": 0.019975
  },
  {
   "recipient": "0xc6fb48a57b1433ab0249d8b173d71b451d69c042",
@@ -1237,7 +1268,9 @@
   "count": 1,
   "funder": "0xe9b7b5192ca560abc0bc645a4f3b47968f39c464",
   "funderTx": "0xe3208eef0fe037a2dc6082ff107286205bbcd12b38cd1580c63b40cece2b259e",
-  "note": "0xe9b7b5192ca560abc0bc645a4f3b47968f39c464` \u2014 `0xe3208eef0fe037a2dc6082ff107286205bbcd12b38cd1580c63"
+  "note": "0xe9b7b5192ca560abc0bc645a4f3b47968f39c464` \u2014 `0xe3208eef0fe037a2dc6082ff107286205bbcd12b38cd1580c63",
+  "firstBnbBlock": 88015063,
+  "bnb": 1.0999788975
  },
  {
   "recipient": "0xd07c76fa47c99c70917b6db2e9215844f0b9dc64",
@@ -1381,7 +1414,9 @@
   "count": 1,
   "funder": "0xa95b83af96d0b8a90bd507f2bd82ad8f3dbb86bc",
   "funderTx": "0x07cae36d702e2c907324ebb4e77374185441cb61d16d907eedf63486a6052f46",
-  "note": "0xa95b83af96d0b8a90bd507f2bd82ad8f3dbb86bc` \u2014 `0x07cae36d702e2c907324ebb4e77374185441cb61d16d907eedf"
+  "note": "0xa95b83af96d0b8a90bd507f2bd82ad8f3dbb86bc` \u2014 `0x07cae36d702e2c907324ebb4e77374185441cb61d16d907eedf",
+  "firstBnbBlock": 36023645,
+  "bnb": 0.0045
  },
  {
   "recipient": "0xe32003a1e0347d1f90415b79c7f9f969515e9839",
@@ -1517,7 +1552,9 @@
   "count": 1,
   "funder": "0x8c826f795466e39acbff1bb4eeeb759609377ba1",
   "funderTx": "0xcfb8fd1c000b34461351e0cc6fbce5983adbfde623c32ee0548903be6ff4ce93",
-  "note": "0x8c826f795466e39acbff1bb4eeeb759609377ba1` \u2014 `0xcfb8fd1c000b34461351e0cc6fbce5983adbfde623c32ee0548"
+  "note": "0x8c826f795466e39acbff1bb4eeeb759609377ba1` \u2014 `0xcfb8fd1c000b34461351e0cc6fbce5983adbfde623c32ee0548",
+  "firstBnbBlock": 109906233,
+  "bnb": 0.003101962934684184
  },
  {
   "recipient": "0xf1a1a92530e999768c19ab90a59af685a2c27a92",
@@ -1637,7 +1674,9 @@
   "count": 2,
   "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
   "funderTx": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
-  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125dec"
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125dec",
+  "firstBnbBlock": 126835408,
+  "bnb": 0.0005
  },
  {
   "recipient": "0xfc0fedb45e56ba2f6467d8c476b3cd54f54d4582",
