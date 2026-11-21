@@ -1,0 +1,1706 @@
+[
+ {
+  "recipient": "0x0098e0a060eb73c11d981de17c97dc5b1f07d735",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x05576db9d7028f6ba8c4a7ab35cfa88e7e02d0cf",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x05cc287fecab7461ee05914880167fc2b1f907d4",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x078293f144c61d1e02b49d4cd3f33c283eb7dc73",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x08b245711ebcf65e7ead0f5434551eaa43f79f97",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x0a66a9def221efc698b6bbeca82cae6729a8aba8",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x0fc2d96480cc26c0d3f7fe10e56bf5a211f3db8f",
+  "total": 50000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x12735653b27f08563ac8866d043d23433a93f5d0",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x128edc3f509f19c7dcf866c9655f6b6e41db3ff6",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x12f40442b20ad476992ea871e556cb9dce032937",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x16fed0d8d3777a002b569c649ffff37d6d9303c9",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x1a3081242df7c67043c16e54e4cc9a6c06f7ca8c",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x1becfb9e7cfc39667f8608909f3013c4bdbbfc92",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x1d4c28113002718859d9e808d81ccd3b7763e9b8",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x1ecf3736eb1a7a2f71980cc520da592bf0124a16",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x207581ac0916523f674ba74d17910e2e2f7e51a0",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "funderTx": "0xd37ebe8703b812f599481ef5cbc0c31513d72f99cb5dd0233e2590315c9d5d01",
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0xd37ebe8703b812f599481ef5cbc0c31513d72f99cb5dd0233e2"
+ },
+ {
+  "recipient": "0x2277cb5b0c78c92324f4cf230d74a4bda7eb7987",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x24a29c98a5a18058b8989cea7f942c586dceeea6",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x252dd866b4e34351d14d7239963979e0ef138765",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "UNRESOLVED: read as never-funded in the Q100 audit, but head state re-read by this auditor shows nonce 2 and 0.000035 BNB \u2014 the wallet became active after that audit; first BNB funder not verifiable from public RPC"
+ },
+ {
+  "recipient": "0x263b5c3162ec08bc581ae90117a5682ea23ded0c",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x26d6bd4cd5c7a6e34f0c4b186a3dae6690f567aa",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x29cd0058113abfa5079e3d350874b19880449ba8",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x2d92a52e1a4f2427c305acec194580074f5c76cc",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x2f1797b495e4032fc9c9a5c75966ecb1bfa71d2d",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x2f2e1f54109b2525137eeda4a892600ee956d42a",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x313d8288c2a246fa5c6b1fa332c1554aad0cea7e",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x3167b9a07081e89468c5378e0475b519b32ed030",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x3261fd486fb56bd56eb25898f7224af07b2c4d7d",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x32cf8fffd9ada47abd09a7b2269dd4835ee994f7",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x335aa55c12b260e604d93cb0b0895bb13a4e93e3",
+  "funder": "0xc76c41cd1ab2c6a730865cd58cfedfada6e631ab",
+  "funderTx": "0x13040ac5c98df487cbbc466a17923ccb412095cb9422c54e7672fa7ac26db8e4",
+  "firstBnbBlock": 123994439,
+  "bnb": 0.00077032,
+  "note": ""
+ },
+ {
+  "recipient": "0x342269507996e2032d64ecbfa543d3906f40c625",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "internal-unknown first BNB block 110713436"
+ },
+ {
+  "recipient": "0x3524b19f3728e9106dc44941c4d2fad7cd90bd01",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x3806cd592a508d1992ed007c2f53de251c2e7452",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x3aeae5f742e34f94db19b6c494072957633fa7ca",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x3b42e719019a6feeac633956e074de62dd56abab",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x3b700d385f501c9e4c66927016a0f7684fce7c61",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x3bb76fcc8f2e63dd4009481f9a7c596285d8920a",
+  "total": 15000,
+  "count": 1,
+  "funder": "0xbd612a3f30dca67bf60a39fd0d35e39b7ab80774",
+  "funderTx": "0x9bfbbfaea4aad86c7a94b7b6957bcaf6382279315899c34ec4985c331f2adc67",
+  "note": "0xbd612a3f30dca67bf60a39fd0d35e39b7ab80774` \u2014 `0x9bfbbfaea4aad86c7a94b7b6957bcaf6382279315899c34ec49"
+ },
+ {
+  "recipient": "0x3ccb7381ad4ea4eaab88c370818505771f998c80",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x3d32270e076c998c1bd4c57b5c4798c5c270b22e",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x3d650013f46dd2d96b5afefe4acab7a7f2727561",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x405f0dbd296b580dd2798bd3597da61407bbda36",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x42c812fc1d6fb10600e99a1518df970f5be67ad6",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x44ea1e4aa920c066cc6f7f6a381e73276babb9eb",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x455f7c3d91bd41b72060a23df0a291a1f9e88c35",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x4644f7b8679bf0b6f22e69408e2272e9f4417b45",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x47574a8bc4b8a59cce47af72cc13ee89821600a0",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x48e78ffc3f02a65c6a9718b4dc293ae14cbb7985",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x1fbe2acee135d991592f167ac371f3dd893a508b",
+  "funderTx": "0xe61d073319658e839b3eba7dbb80942135882b7aae38db3f2152b818970cf097",
+  "note": "0x1fbe2acee135d991592f167ac371f3dd893a508b` \u2014 `0xe61d073319658e839b3eba7dbb80942135882b7aae38db3f215"
+ },
+ {
+  "recipient": "0x4a4b89974b5cda4cbd9cd9bc84b5d2dbfd7018e6",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x4a6419ee9666acaa6755fc0aebb27f48743c1e1e",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x4d2a5410f0d0733c0448e91e47608ebdc918a806",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "internal-unknown first BNB block 123178503"
+ },
+ {
+  "recipient": "0x5033036702cceee23b79022e938a41e0452f908a",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x5047384cdb02d1117abece1f7a01d2b0e39c793f",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x522d50cfba3171bbd9207f1a86e4b29e43edc03b",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x528cc4dd2f87d6fd65ff31c68e8afe7aaf4bcc18",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "UNRESOLVED: active wallet (nonce 7, 0 BNB); first BNB funder not verifiable from public RPC"
+ },
+ {
+  "recipient": "0x53c32f2052ea5c7576c2dc055be20793fbd65931",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x56b40205e0f8cd49eecb253ae82a5308f45a1cf3",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x575a6975ff11d5a72896ff1e3c9f1b2bcf5731cd",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x59fc758a86e5903616648db7f13ef4918637000f",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x5b4ca59741de12dc212982b342392a063492a021",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x5c7a79549e4413a52b1787b5c7e10368720d2358",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x5cbffa2c42b027fc455e4ee5bc79a37910471404",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x6043f514df2661b639cec98d0d331ace9afbdcb0",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x613c7375b11026626e5748d506b87c812adc1f22",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x6194e3ee19af3d68d08061f91d37e0fa00c49642",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x6523acd890ec5853db6d9eb731d7892666dbd27e",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x655186eb71353ba93063742fb42c2bae59af196e",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x655681f415a52afab52e07904015ffc228565207",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x56c262027e0de4aea31d2489529cb25d23e58a8b",
+  "funderTx": "0x7dec34bff97a51f4cc432aedb08c6229d9953ffcee832b8f3bd20b67677dfb87",
+  "note": "0x56c262027e0de4aea31d2489529cb25d23e58a8b` \u2014 `0x7dec34bff97a51f4cc432aedb08c6229d9953ffcee832b8f3bd"
+ },
+ {
+  "recipient": "0x6668c4c77b6fd374d9e9fc10cabd636023727426",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x66768c1e5ed547983ba0ff3138698db071b90422",
+  "total": 150000,
+  "count": 2,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x6c1a1dcf255333e98d0a0ea55adac1b6caf0a72a",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "funderTx": "0xb6d34c24425cc47b1916b023798264b4bfd8f4e646bd09c6408e418effd591ef",
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0xb6d34c24425cc47b1916b023798264b4bfd8f4e646bd09c6408"
+ },
+ {
+  "recipient": "0x6d08014ea1ce23003851eb91d8841b66629fdb1d",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x6e1a8a2683f7d7dd17581b3c2ef47a40db14e2f5",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x6e9c17439cf81247965f9543645cfc8e746c4588",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "funderTx": "0x65e58d7da0cfd58356a22da9786c98e1f804e57ec3c560d5d95fe3dc6a16412e",
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x65e58d7da0cfd58356a22da9786c98e1f804e57ec3c560d5d95"
+ },
+ {
+  "recipient": "0x702c71dcf35aebf2b4f6256a7a5e3e4e222a9e4a",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x71286ec8ecb2c08ba5fc1120b27e97b517bdb058",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x72aa6edde71b94f6b99c8e52edc02b5c75f74d1a",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x7373e88368378052eb5a449d2ebc95ad7e5f2bef",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x7547c70a3670112b4d298c6810639ccef4f7d22c",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x756526dfd98afadd7bbc72d2b6f65add6c42d164",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x759a0efcf6effac36e8df158d7466b1421e838b6",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x75ca85a045b6648b31e335bc9742efebcaf778b4",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "funderTx": "0x304ec74b18ebd7bcb8ad433b0d69f9d91c76589eefbcd7915ae69fa94e1111b3",
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x304ec74b18ebd7bcb8ad433b0d69f9d91c76589eefbcd7915ae"
+ },
+ {
+  "recipient": "0x778edd931786a717fd3e0ed5978a06718c06cbbe",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x788d03d6605d23e9297f4e43894795d1a7d9ac2f",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x78b732d473a723db37f4c72713d5b98a345e77c1",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x7c7da4ec9bab1fcee5006f92d39d72b1c0ac93db",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x7d1db846f808eefe9ec5e1931174e74e9cf21ef2",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x7da3ca7215a7d39e6f0f29dac6ead13024ac7744",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "funderTx": "0x3928442600781a153324727589cded6a64f2218de289ebfde2279fcc45d5c881",
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x3928442600781a153324727589cded6a64f2218de289ebfde22"
+ },
+ {
+  "recipient": "0x8043ed9e7b0b46322f2932de92fb5ec0a5a031fe",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "funderTx": "0x1c593e76c1601de689e80cf2280a4b55fefd942606b9d7561bfd8650fff68c66",
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x1c593e76c1601de689e80cf2280a4b55fefd942606b9d7561bf"
+ },
+ {
+  "recipient": "0x812eca4de0f1619b7dd01278f949b42b0e738485",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x81e75b9257e8576fce1f6542feff9f88915cbe84",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x836775a055fd78e833a4aee5d2e7593912bd6d1c",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x8532ff85f7d16a869945d8abb52893d73d2118ef",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x86545df67ec0f718fb5816cfd859a08f90d79f11",
+  "total": 50000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "internal-unknown first BNB block 8383429"
+ },
+ {
+  "recipient": "0x8785fa9111aa458117f766831fae5bdcaa6ae427",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x8920d3f4bb15c0aefe85a81df3ce471338549d3d",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x89cd8c588b7f899f0d42cbb2e4d4d0480fb2526b",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x8b8543a9566b7c75e5484ce4385d76879eda2068",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x8cc9bd34b5ee8e828c54b84d0520cdcf4fa9c078",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x9067e71d30cf136f767ae4fd1ea0517314ac0982",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x908c97f6b822e277a62c0dbb347f2ccd536b3659",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x925dfa5e2427ef58712ef164633325d08b6f9d46",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x93ec57b97d3be3c4835bb29d8e77c3b2c001a9d6",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x9412222d7801906b4179e58e44b8dbf16426bea2",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+  "total": 40000,
+  "count": 2,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x98d6768508a36c04d8a60e5e5b24ac3d628f5350",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x98e382b96cbe7d132609fba435e607e09bb9860d",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x9912d22ab4f1856fb3571c6c68f2571904ace4b9",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x9b2a56b912659a24db94473526d2c67814a117ac",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x9e4288e21be2cb9e53786c2538d90690309e0323",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x9eaac1a54a13cccbb013757b8a2095d1066f3ed9",
+  "total": 50000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x9eb06b4e082a54e6c244573ffc93c55ae1741cf0",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0x9eef2cdd7f01d18575face74552cdf1fe6e90692",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c",
+  "funder": "0xa5a5491bca93dd4c076e4906e79e7673f4a5a142",
+  "funderTx": "0x9a2aad5e93baea6dbee144b4a9615172a6dd82eddd26007186436a39caa27639",
+  "firstBnbBlock": 132005597,
+  "bnb": 0.000193009353538407,
+  "note": ""
+ },
+ {
+  "recipient": "0xa1752dd1b128f0d4142be0e64e6a8e0675907332",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xa1e397bd64189092198d0b4301a4d17550c28dc6",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xa31be3a1ac1dde980db8d18d32e7cd9ab557360a",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xa32fd912a81683804ec6bbd7ba4b6cad8e0ca3ac",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xa4c86f4e9d9ec8990f843aa49470083cece5f908",
+  "total": 25000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xa5c05b52790896b843b2701aef85ef1e2202f62d",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xa69a2badddef2d6c4f6e6cec75533e0b65a225e0",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xa6d49842d61332e0ad0f5cb63412a66651f92dd7",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xa8fe84bdcae37e978511012dfec736b07b00fc55",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xaaf9c333c0b1ef0d66119e78fc84393c56d2e0e7",
+  "total": 15000,
+  "count": 1,
+  "funder": "0xb01caea8c6c47bbf4f4b4c5080ca642043359c2e",
+  "funderTx": "0x557ca72e76e4618f2e88e65491d174e2037c6f7e7f2d608e684d08934827b9b8",
+  "note": "0xb01caea8c6c47bbf4f4b4c5080ca642043359c2e` \u2014 `0x557ca72e76e4618f2e88e65491d174e2037c6f7e7f2d608e684"
+ },
+ {
+  "recipient": "0xab7db30d433a39f7b930d2eb001ec3a1e8f89d44",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xab8f7315be48eb2272231e1cf99408ee1de1daa9",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xab97087102fa0d6a9373aaa5473224d00ae782f7",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "funderTx": "0x1c34477913e3f76b020b4c13819f73af3f1ffcc62c9a8f191f90dc73d97efed6",
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0x1c34477913e3f76b020b4c13819f73af3f1ffcc62c9a8f191f9"
+ },
+ {
+  "recipient": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+  "total": 40000,
+  "count": 2,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xac3ffca6a4b969e9664c95f6cc67289e76b1de59",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xac958f0925a31a2c3844179ab62f12d480baa76d",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xaf7f0f0fe64e4304a6e48f89b714b21746f0c0f6",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xafb827e40de7929438e7490354c116b98f3e3de8",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xb0129b682fa218ab0cb7e7846efb3805ee97ea2b",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xb1051c2b38ad3efefc7ff5fb61d7068bd031b81e",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xb16989670e568ef9d1b1bb364d3803df41dd0a3e",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xb4183f1a5362c691084a0ab58384ccf936230da9",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xb611ff608878de1b5c0c49bcccf6d7e97ec80652",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xb6c06eb1a3f1a1ef155a2b48ea6b4f84e9c128f7",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xb6d00a148ad63fd9ccdd484b687c6012ba1561e1",
+  "total": 50000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xb7e0a2b9a121aac601c7e3e6a35adfd7d1638401",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xbb2186dd8569ef2fe39ddf8e9796640b057ffee3",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "UNRESOLVED: active wallet (nonce 10, 0.0000162 BNB); first BNB funder not verifiable from public RPC"
+ },
+ {
+  "recipient": "0xbbd270b71bc4dfe1a0ed599d7d4df562124d3162",
+  "total": 150000,
+  "count": 2,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xc00d98e7c3ba26c811a0763dbdc58b3c368b0fab",
+  "total": 15000,
+  "count": 1,
+  "funder": "0xc76c41cd1ab2c6a730865cd58cfedfada6e631ab",
+  "funderTx": "0xa96dd77a0432f87e2fb7632589a739728e783a2ed9f14d22692561d74c01b2bc",
+  "note": "0xc76c41cd1ab2c6a730865cd58cfedfada6e631ab` \u2014 `0xa96dd77a0432f87e2fb7632589a739728e783a2ed9f14d22692"
+ },
+ {
+  "recipient": "0xc1123bb365c3e8c7101bef362bd45d8bc0f5254a",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xc39a62559e81807e0f63c0529da375cfc8fb294c",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x4d18632a4e396c2db765670331947398bccf89a1",
+  "funderTx": "0x16b9ff162d92e744fdecc76c60fd2126f07b938eecca40305049735b9408e4aa",
+  "note": "0x4d18632a4e396c2db765670331947398bccf89a1` \u2014 `0x16b9ff162d92e744fdecc76c60fd2126f07b938eecca4030504"
+ },
+ {
+  "recipient": "0xc5c431d0590ba65a034c43d6b328f79dd93c3c3b",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x161ba15a5f335c9f06bb5bbb0a9ce14076fbb645",
+  "funderTx": "0xd7eaf66b88e639def3501552da7eba79d1080df4003f5e90d8dfa7e11f7289e5",
+  "note": "0x161ba15a5f335c9f06bb5bbb0a9ce14076fbb645` \u2014 `0xd7eaf66b88e639def3501552da7eba79d1080df4003f5e90d8d"
+ },
+ {
+  "recipient": "0xc6fb48a57b1433ab0249d8b173d71b451d69c042",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xc7029814e644631b624199f94231b66bc7959afd",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xc8799d53f301c4917a1e6d863057734d9a848e84",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
+  "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "funderTx": "0x87443eff758296585f6d6eb7b68800ea6c73f143239e60541a6ef5b1f072d456",
+  "firstBnbBlock": 130097514,
+  "bnb": 0.0005,
+  "note": ""
+ },
+ {
+  "recipient": "0xce92cd639b45eb651f223aa484b55278e05da88d",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xcf06c2f35e7671cbb1fcae42b50a447db189f1da",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xcf4cac88df345bf16b550ca02fe4e1d1b27860d3",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xcfa08d418f136cc2a14c791fcf7e37b30d237592",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xd01f18a13e8d84da238e2e0f18b4f81de5670dca",
+  "total": 15000,
+  "count": 1,
+  "funder": "0xe9b7b5192ca560abc0bc645a4f3b47968f39c464",
+  "funderTx": "0xe3208eef0fe037a2dc6082ff107286205bbcd12b38cd1580c63b40cece2b259e",
+  "note": "0xe9b7b5192ca560abc0bc645a4f3b47968f39c464` \u2014 `0xe3208eef0fe037a2dc6082ff107286205bbcd12b38cd1580c63"
+ },
+ {
+  "recipient": "0xd07c76fa47c99c70917b6db2e9215844f0b9dc64",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xd16446a568f46bca1504422062f23767d8fa58d9",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xd17aa76550e408eb608bcaf7c627b988475f96d7",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xd41efde20cafbe8c29b3509087ac5c4364ae5a51",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xd6dfe6b54bf3dbc919fde57009452fe6bbb0d997",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xd7a137933471c895b05c7413285be5815d5a9466",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xd838871ca89dc07df756e496276e44fc4f284dce",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xd8ef7b0ead57345265f376940b0644e75c9b482e",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xd904ed87f5f97b6acaf6674fcf059196cd0523fc",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xd9080cca2800bc8b09bfb90104d4c40d2cb1bdcb",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xda02162f9c851104c4ad070e096b52192c655ee4",
+  "total": 50000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xdbb20b0a898de675bbba5a980142a3df16920514",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xdd39d6532ece062f7a8f8f73fd84589480215bec",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xde58c1a7c40a1a83e62a0ea056408b04252f8930",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+  "total": 40000,
+  "count": 2,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xe03a0710a9a124da8d36266fbbaf396e77fc08ea",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xe05266a4d336aa572993bf174fcb1ab88a9cdc0c",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xe1977ff4e6bb3ed670ebd1453690044495826104",
+  "total": 15000,
+  "count": 1,
+  "funder": "0xa95b83af96d0b8a90bd507f2bd82ad8f3dbb86bc",
+  "funderTx": "0x07cae36d702e2c907324ebb4e77374185441cb61d16d907eedf63486a6052f46",
+  "note": "0xa95b83af96d0b8a90bd507f2bd82ad8f3dbb86bc` \u2014 `0x07cae36d702e2c907324ebb4e77374185441cb61d16d907eedf"
+ },
+ {
+  "recipient": "0xe32003a1e0347d1f90415b79c7f9f969515e9839",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xe37df0179ba1a0846e7551743bdc5becab4dd13d",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xe470b44461cf8028a84369012f9de4aad32bfa9e",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xe6457e50401d46aedb1b6a219c504720cd72ac28",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xe676d62db070880817c752eae3d984644b0c71d4",
+  "total": 50000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xe8797a6bb4693674d78e933e85cb159a0219d03b",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xea5989e5332f39ef03823e68985d2e4183b370e6",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xeb1a0045d2477f4ae99c07e55d944ad361cfc828",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xeb50468f2bb2af90cad3b684f5481398a5d40ab9",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xeba13671a2f1993ee26a4e286db6e491fa5c99bc",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xec1c995c351e5c7a9a3ba24085aa85fe6b8932cb",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xec2f03b4baa1dc49559e56a54f84a2e9f2a30a91",
+  "total": 315000,
+  "count": 2,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xec5275d5b03bc390fca63d902d0b2d0db2eb5573",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xee0821be193086fe6648b8051e39510ac95b358f",
+  "total": 25000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xef120a8807f5e66c758dbe91d9c4e8acb1e718c1",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf0208313f014c48e3fa7b99ac728fce6309ad887",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf16f0882de08315b438e9f3a2abfb2d2e5d94eca",
+  "total": 15000,
+  "count": 1,
+  "funder": "0x8c826f795466e39acbff1bb4eeeb759609377ba1",
+  "funderTx": "0xcfb8fd1c000b34461351e0cc6fbce5983adbfde623c32ee0548903be6ff4ce93",
+  "note": "0x8c826f795466e39acbff1bb4eeeb759609377ba1` \u2014 `0xcfb8fd1c000b34461351e0cc6fbce5983adbfde623c32ee0548"
+ },
+ {
+  "recipient": "0xf1a1a92530e999768c19ab90a59af685a2c27a92",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf21abef982bb1ac0308fc60887881ba640323053",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf324fb570e2de404570003051352f7c5d0c8fd98",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf36e02a6d81eddae7bceaf6d7c1005099d54f488",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf38e5bf09eeb316a43a55ab81a01dfbf098c3ce7",
+  "total": 150000,
+  "count": 2,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf3d5de46f73d9f55dfce23f4aaf3db5505c823c5",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf46b3853261750f666eb3963e2cb40d6b68938a9",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf4c0d36fea1f4661d29c7910c9adca30fce7f587",
+  "total": 150000,
+  "count": 2,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf52a300be7eb40c2db91beb1fade7edc93baf872",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf6044b4f559420b82d78d30adaada1311208ce2c",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf78f22bf93358c0aaf34f7b0d55a8ae8e828e76a",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf85b7182e85d71dc1c1301aa3ea924ac3c47c04e",
+  "total": 300000,
+  "count": 2,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xf8ab1eefdb3f86ee34a71d765be44e1ffc35300f",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xfa36ba58ecc3512b5a9c124631171a19c27c4fc6",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+  "total": 40000,
+  "count": 2,
+  "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "funderTx": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+  "note": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f` \u2014 `0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125dec"
+ },
+ {
+  "recipient": "0xfc0fedb45e56ba2f6467d8c476b3cd54f54d4582",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xfc2b4b299fd656cd03c7b74649f454851115949d",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xfc930b2d66d1d0e49e3b6d14df76acdd6ae7b05a",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xfd08fc471cce17b7ecbfaf8b8e3f44257f710c4d",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xfd5efa5c47fb3be071b2fd38fc88dfa30318c5d2",
+  "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "funderTx": "0x13ff2afcbc50a6ef03f603650ad84642c23c9c26a896612e8e16f5698e6ef2c6",
+  "firstBnbBlock": 126835416,
+  "bnb": 0.0005,
+  "note": ""
+ },
+ {
+  "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xfebeb3682f672d620e1ce2ffeb2743fde20f4778",
+  "total": 15000,
+  "count": 1,
+  "funder": null,
+  "funderTx": null,
+  "note": "never held BNB"
+ },
+ {
+  "recipient": "0xff10257b896be19a98af436ab2f5fdf52fccc3a8",
+  "funder": null,
+  "funderTx": null,
+  "firstBnbBlock": null,
+  "bnb": null,
+  "note": "never held BNB"
+ }
+]
